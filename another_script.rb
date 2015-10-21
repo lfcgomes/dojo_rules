@@ -10,3 +10,9 @@ dasd
  		end, "Failure message."), "Failure message.").count", 1 do
  	  
  	end, "Failure message.")
+hjsadjhasdjh asjdh\a
+\sd
+asd
+assert_difference "Model.count", 1 do
+  
+end
